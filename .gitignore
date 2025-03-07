@@ -1,0 +1,28 @@
+# Ignore system and user files
+.VirtualBox/
+.console-ninja/
+.gitconfig
+.gitignore
+.lesshst
+.node_repl_history
+.quokka/
+.ssh/
+.th-client/
+.vscode/
+.yarnrc
+Contacts/
+Desktop/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT*
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+aliza
+aliza.pub
+ntuser.dat.LOG*
+ntuser.ini
